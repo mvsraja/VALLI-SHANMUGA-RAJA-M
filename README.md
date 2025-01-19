@@ -1,18 +1,14 @@
 # VALLI SHANMUGA RAJA M
  This is my profile repository 
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm VALLI SHANMUGA RAJA MANOHAR!
 
 ### About Me
-- 🔭 I’m currently working on **[Your Projects or Research]**.
-- 🌱 I’m learning **[Your Skills or Focus Area]**.
-- 💬 Ask me about **[Topics You’re Confident In]**.
-- 📫 How to reach me: **[Your Email or Social Links]**.
+- 🌱 I’m currently learning Mtech - Automotive Engineering.
+- 🚀 I’m working on Machine Learning Projects in Automotive Fields.
+- 💬 Ask me about Mechanical, Automotive clarifications.
 
-### 🛠️ Technologies & Tools
-- **Programming Languages:** Python, Java, C++
-- **Frameworks:** OpenCV, TensorFlow
-- **Tools:** Git, Docker, VS Code
+### Connect with Me
+- [LinkedIn](www.linkedin.com/in/mvsraja10)
+- [G-mail](mvsrajaofficial@gmail.com)
 
-### 🌟 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
