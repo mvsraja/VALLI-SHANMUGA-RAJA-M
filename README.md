@@ -12,3 +12,4 @@
 - [LinkedIn](www.linkedin.com/in/mvsraja10)
 - [G-mail](mvsrajaofficial@gmail.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
